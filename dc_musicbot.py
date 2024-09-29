@@ -102,4 +102,4 @@ async def resume(ctx):
 async def skip(ctx):
     voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     voice.stop()
-client.run('MTI4OTI1ODU4MzE5MTU4NDg3OA.GATh2L.PKF07QNBr0Pdsns1nffkX0vC_hfksytc98Qa1A')
+client.run('INPUT_UR_TOKEN')
