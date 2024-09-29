@@ -13,3 +13,7 @@
 <pre>
   pip3 install -r requirements.txt
 </pre>
+#### 三、注意事項
+<pre>
+  請額外下載ffmpeg！否則無法串流音樂
+</pre>
